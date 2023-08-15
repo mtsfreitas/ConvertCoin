@@ -1,0 +1,6 @@
+framework module Pods_ConvertCoin {
+  umbrella header "Pods-ConvertCoin-umbrella.h"
+
+  export *
+  module * { export * }
+}
