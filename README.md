@@ -1,1 +1,1 @@
-# ConvertCoin
+# CurrencyConverter
