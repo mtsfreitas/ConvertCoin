@@ -2,6 +2,6 @@
 
 App iOS de conversão de moedas/câmbio, desenvolvido usando o Swift 5. 
 
-- Consumir uma API Rest pública
-- CocoaPods
-- MVVM
+- Consumo de API Rest pública (https://docs.awesomeapi.com.br/api-de-moedas) utilizando URLSession 
+- Gerenciador de dependências: CocoaPods
+- Arquitetura: MVVM
