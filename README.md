@@ -1,4 +1,5 @@
 # CurrencyConverter
+![currency-converter-app](https://socialify.git.ci/mtsfreitas/currency-converter-app/image?language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
 App iOS de conversão de moedas/câmbio desenvolvido utilizando Swift 5. 
 
